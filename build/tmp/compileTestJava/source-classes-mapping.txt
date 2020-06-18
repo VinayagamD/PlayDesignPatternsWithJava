@@ -1,0 +1,4 @@
+com/vinyalogics/playwithdesignpatterns/creational/singleton/eager/SingletonWithEagerTest.java
+ com.vinyalogics.playwithdesignpatterns.creational.singleton.eager.SingletonWithEagerTest
+com/vinyalogics/playwithdesignpatterns/creational/singleton/lazy/SingletonLazyTest.java
+ com.vinyalogics.playwithdesignpatterns.creational.singleton.lazy.SingletonLazyTest

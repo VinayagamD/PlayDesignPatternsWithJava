@@ -1,0 +1,6 @@
+com/vinyalogics/playwithdesignpatterns/creational/singleton/eager/SingletonWithEager.java
+ com.vinyalogics.playwithdesignpatterns.creational.singleton.eager.SingletonWithEager
+com/vinyalogics/playwithdesignpatterns/creational/singleton/lazy/SingletonLazy.java
+ com.vinyalogics.playwithdesignpatterns.creational.singleton.lazy.SingletonLazy
+com/vinyalogics/playwithdesignpatterns/creational/singleton/threadsafe/SingletonLazyThreadSafe.java
+ com.vinyalogics.playwithdesignpatterns.creational.singleton.threadsafe.SingletonLazyThreadSafe
